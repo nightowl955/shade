@@ -1,0 +1,16 @@
+body{font-family: Arial, sans-serif; 
+background-image: url("rose.jpg");
+background-position: center;
+opacity: calc(70%);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+color: rgba(41, 8, 131, 0.226);
+
+}
+
+.jstutor{
+    height: 100px;
+    width: 100px;
+    border: 1px black solid;
+}

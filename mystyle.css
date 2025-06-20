@@ -1,0 +1,53 @@
+body{font-family: Arial, sans-serif; background-image: url("sakura.jpg");
+background-position: center;
+opacity: calc(70%);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;}
+h1{}
+p {color: #333;line-height: 1.6;}
+
+h1{
+    border-style: dashed;
+    opacity: calc(100%);
+    border-radius: 20px;
+    padding: 5px;
+    color: rgb(180, 19, 172);
+    border-right-color: rgb(136, 84, 6);
+    border-left-color: rgb(157, 160, 5);
+    border-bottom-color: rgb(201, 197, 193);
+    background-attachment: fixed;
+    background: linear-gradient(to right, skyblue, white);
+    background-repeat: no-repeat;
+}
+h2{
+    opacity: calc(100%);
+    }
+   p{
+       background-attachment: fixed;
+       opacity: calc(100%);
+       background: linear-gradient(to right, skyblue, white);
+       background-repeat: no-repeat;
+       border-style:double;
+       border-width: 5px;
+       border-radius: 10px;
+       padding: 5px;
+       color: rgb(180, 19, 172);
+       border-right-color: rgb(136, 84, 6);
+       border-left-color: rgb(157, 160, 5);
+       border-bottom-color: rgb(201, 197, 193);
+    }
+.odd{
+       border-style:dotted;
+       opacity: calc(100%);
+       border-width: 5px;
+       border-radius: 10px;
+       padding: 5px;
+}
+.even{
+    border-style: dotted;
+    opacity: calc(100%);
+    border-radius: 20px;
+    padding: 5px;
+     border-width: 5px;
+}
